@@ -1,2 +1,2 @@
 # Sentiment-Analyzer
-Analyzing customer's sentiments using Natural Language Procesing(NLP).
+Analyzing customer's sentiments using Natural Language Processing(NLP).
